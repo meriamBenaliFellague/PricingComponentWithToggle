@@ -78,6 +78,7 @@
 body{
     font-family : 'Montserrat' ;
     font-weight: 700;
+    background-color: var(--Very-Light-Grayish-Blue);
 }
 
 #top{
@@ -111,7 +112,7 @@ h1{
     display: grid;
     place-items: center;
     width: 100%;
-    background-color: var(--Very-Light-Grayish-Blue);
+    background-color: white;
 }
 .cnt2{
     border-radius: 10px;
@@ -243,7 +244,7 @@ h3{
     display: grid;
     place-items: center;
     width: 100%;
-    background-color: var(--Very-Light-Grayish-Blue);
+    background-color: white;
 }
 @media (max-width: 400px){
     
